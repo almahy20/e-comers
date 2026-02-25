@@ -1,0 +1,5 @@
+{
+  "name": "Lumina E-Commerce",
+  "description": "A modern full-stack e-commerce store with user and admin dashboards, featuring a beautiful design and SQLite database.",
+  "requestFramePermissions": []
+}
